@@ -1,6 +1,6 @@
 # Data-Representation-and-Querying-Project-2015
 
-# Exchange Rate
+# Recyleing Locations
 ## Data Representation and Querying Project 2015
 ### Pauric Boyle
 
@@ -8,28 +8,33 @@
 
 This project is Based on designing an app for [Apps4gaps](http://apps4gaps.ie/) using one of their datasets. 
 
-The app I intend on designing is a forign exchange app designed primarally so that you can go on at anytime and view what the euro is worth against other currencies all over the world. 
+The app I intend on designing is an app used to locate where your nearest loacation for recyling. The app will start out being used for galway city and will gradually grow until it can cover the whole of ireland. 
 
-There will also be a window in which the user can view what the exchange rate has been for the previous five days, monthly average and anual average. 
+There will also be an admin side to the app so that an administrator can update the app and add new locations for the app.
+
 
 
 ##Dataset
-The dataset I am going to use for this app is [Exchange Rates](https://data.gov.ie/dataset/exchange-rates/). The dataset has five databases that I will be using. 
+The dataset I am going to use for this app is [Galway City Recycling Bring Bank Locations](https://data.gov.ie/dataset/galway-city-recycling-bring-bank-locations). 
 
-####Past 5 Days
+The dataset is only a small dataset for starting out but will gradually increase in size.
 
-Heading | Description  
----------|-----------
-"COUNTIRES IN ENGLISH" |List of country and currency names in English. 
-"COUNTRIES IN IRISH" | List of country and currency names in Irish.
-"PAST 5 DAYS" | The next five columns ar the past 5 dates.
-
-####Monthly Averages 2005-Presnt
+####[Galway City Recycling Bring Bank Locations Dataset
 
 Heading | Description  
 ---------|-----------
-"MONTHS IN ENGLISH" |List of months and years in English. 
-"MONTHS IN IRISH" | List of months and years in Irish.
-"CURRENCY CODES" | The remaining columns.
+"X " |X Cordinates. 
+"Y " | Y Cordinates.
+"OBJECTID" | An incrementing id to keep track of each record
+"RECYCLABLE " | Recycleable types.
+"LAT " | Latitude.
+"LONG " | longitude.
+
+##Additional Data
+I plan on adding in more columns with more data to make the app more in dept. One of the columns i plan on adding is a full column were the data will simple be yes for full and no for still room so that when you're looking at the app it will show you weather or not the closest recyling banks are empty or full. The next column that I'll add will be emptied date which will just take in a date type as its data. This column will be used for indicating when the banks have last been emptied.
+
+##
+
+
 
 
