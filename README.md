@@ -101,3 +101,17 @@ The updated json would look like this.
 To find the closest recycling plants to your location we take the users longitude and latitude and use the POST with the following URL. 
 
 URL: http://RecyleingLocations.com/location/closest.
+
+##DELETING data
+
+To delete specific data from the datase you first specify which object id in which you want to delete. To do so we use the following URL.
+
+URL: http://RecyleingLocations.com/all?OBJECTID=22.
+
+To delete more than one at the time then we just add in the & symbol.
+
+URL: http://RecyleingLocations.com/all?OBJECTID=22&OBJECTID=2.
+
+
+
+
