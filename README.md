@@ -92,11 +92,12 @@ The updated json would look like this.
         "NorthITM": "725509.672",
         "EastIG": "132309.883",
         "NorthIG": "225480.569"
+        "EMPTIEDDATE": "13/11/15"
     }
   
 ```
 
+##Closest Recycling plants to your location
+To find the closest recycling plants to your location we take the users longitude and latitude and use the POST with the following URL. 
 
-
-
-
+URL: http://RecyleingLocations.com/location/closest.
