@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <0>
+        <X>-9.104600012589737</X>
+        <Y>53.262472165778256</Y>
+        <OBJECTID>1</OBJECTID>
+        <LOCATION>Joyces Knocknacarra</LOCATION>
+        <RECYCLABLE>Glass</RECYCLABLE>
+        <Lat>53.263</Lat>
+        <Long>-9.105</Long>
+        <EastITM>526265.906</EastITM>
+        <NorthITM>724165.855</NorthITM>
+        <EastIG>126299.228</EastIG>
+        <NorthIG>224136.428</NorthIG>
+    </0>
+    <1>
+        <X>-9.073531663370176</X>
+        <Y>53.259711101723688</Y>
+        <OBJECTID>2</OBJECTID>
+        <LOCATION>Toft Park, Salthill Aquarium</LOCATION>
+        <RECYCLABLE>Glass & Textiles</RECYCLABLE>
+        <Lat>53.26</Lat>
+        <Long>-9.074</Long>
+        <EastITM>528333.708</EastITM>
+        <NorthITM>723827.097</NorthITM>
+        <EastIG>128367.477</EastIG>
+        <NorthIG>223797.61</NorthIG>
+    </1>
+    <2>
+        <X>-9.076540600104147</X>
+        <Y>53.276289895814678</Y>
+        <OBJECTID>3</OBJECTID>
+        <LOCATION>Westside Shopping Centre</LOCATION>
+        <RECYCLABLE>Glass & Textiles</RECYCLABLE>
+        <Lat>53.277</Lat>
+        <Long>-9.077</Long>
+        <EastITM>528160.767</EastITM>
+        <NorthITM>725674.54</NorthITM>
+        <EastIG>128194.493</EastIG>
+        <NorthIG>225645.448</NorthIG>
+    </2>
+    <3>
+        <X>-9.042453317342229</X>
+        <Y>53.276092597532831</Y>
+        <OBJECTID>4</OBJECTID>
+        <LOCATION>City Hall, College Road</LOCATION>
+        <RECYCLABLE>Glass & Textiles</RECYCLABLE>
+        <Lat>53.276</Lat>
+        <Long>-9.043</Long>
+        <EastITM>530433.513</EastITM>
+        <NorthITM>725618.882</NorthITM>
+        <EastIG>130467.73</EastIG>
+        <NorthIG>225589.792</NorthIG>
+    </3>
+    <4>
+        <X>-9.050600456160197</X>
+        <Y>53.277994156169719</Y>
+        <OBJECTID>5</OBJECTID>
+        <LOCATION>Dyke Road Car Park</LOCATION>
+        <RECYCLABLE>Glass & Textiles</RECYCLABLE>
+        <Lat>53.278</Lat>
+        <Long>-9.051</Long>
+        <EastITM>529893.339</EastITM>
+        <NorthITM>725838.393</NorthITM>
+        <EastIG>129927.438</EastIG>
+        <NorthIG>225809.346</NorthIG>
+    </4>
+    <5>
+        <X>-9.047289355134019</X>
+        <Y>53.280921528644399</Y>
+        <OBJECTID>6</OBJECTID>
+        <LOCATION>Galway Shopping Centre- Tesco</LOCATION>
+        <RECYCLABLE>Glass & Textiles</RECYCLABLE>
+        <Lat>53.281</Lat>
+        <Long>-9.048</Long>
+        <EastITM>530118.9</EastITM>
+        <NorthITM>726160.829</NorthITM>
+        <EastIG>130153.047</EastIG>
+        <NorthIG>226131.853</NorthIG>
+    </5>
+    <6>
+        <X>-9.036668204270322</X>
+        <Y>53.286195343630354</Y>
+        <OBJECTID>7</OBJECTID>
+        <LOCATION>Galway City Council Depot, Lisbaun Ind Estate</LOCATION>
+        <RECYCLABLE>Glass, Textiles, Liquids, Batteries, Light Bulbs, WEEE, Large Hard Plastics, Waste Metals, Timber</RECYCLABLE>
+        <Lat>53.286</Lat>
+        <Long>-9.037</Long>
+        <EastITM>530835.595</EastITM>
+        <NorthITM>726737.226</NorthITM>
+        <EastIG>130869.894</EastIG>
+        <NorthIG>226708.378</NorthIG>
+    </6>
+    <7>
+        <X>-9.045396965163491</X>
+        <Y>53.28416137133889</Y>
+        <OBJECTID>8</OBJECTID>
+        <LOCATION>Terryland, Dunnes Stores</LOCATION>
+        <RECYCLABLE>Glass & Textiles</RECYCLABLE>
+        <Lat>53.284</Lat>
+        <Long>-9.046</Long>
+        <EastITM>530250.351</EastITM>
+        <NorthITM>726519.422</NorthITM>
+        <EastIG>130284.526</EastIG>
+        <NorthIG>226490.523</NorthIG>
+    </7>
+    <8>
+        <X>-9.011452955348092</X>
+        <Y>53.285362829734133</Y>
+        <OBJECTID>9</OBJECTID>
+        <LOCATION>Ballybane Shopping Centre</LOCATION>
+        <RECYCLABLE>Glass & Textiles</RECYCLABLE>
+        <Lat>53.286</Lat>
+        <Long>-9.012</Long>
+        <EastITM>532515.346</EastITM>
+        <NorthITM>726620.508</NorthITM>
+        <EastIG>132550.009</EastIG>
+        <NorthIG>226591.644</NorthIG>
+    </8>
+    <9>
+        <X>-9.014816641260293</X>
+        <Y>53.275349456250957</Y>
+        <OBJECTID>10</OBJECTID>
+        <LOCATION>Renmore, beside Kingfisher Club</LOCATION>
+        <RECYCLABLE>Glass & Textiles</RECYCLABLE>
+        <Lat>53.276</Lat>
+        <Long>-9.015</Long>
+        <EastITM>532275.269</EastITM>
+        <NorthITM>725509.672</NorthITM>
+        <EastIG>132309.883</EastIG>
+        <NorthIG>225480.569</NorthIG>
+    </9>
+    <10>
+        <X>-8.985624445593389</X>
+        <Y>53.287666816226157</Y>
+        <OBJECTID>11</OBJECTID>
+        <LOCATION>Doughiska, Centra</LOCATION>
+        <RECYCLABLE>Glass & Textiles</RECYCLABLE>
+        <Lat>53.288</Lat>
+        <Long>-8.986</Long>
+        <EastITM>534240.867</EastITM>
+        <NorthITM>726852.764</NorthITM>
+        <EastIG>134275.902</EastIG>
+        <NorthIG>226823.961</NorthIG>
+    </10>
+    <11>
+        <X>-9.100005661237697</X>
+        <Y>53.270146467828731</Y>
+        <OBJECTID>12</OBJECTID>
+        <LOCATION>Western Distributor Road</LOCATION>
+        <RECYCLABLE>Glass & Textiles</RECYCLABLE>
+        <Lat>53.27</Lat>
+        <Long>-9.101</Long>
+        <EastITM>526585.513</EastITM>
+        <NorthITM>725014.907</NorthITM>
+        <EastIG>126618.901</EastIG>
+        <NorthIG>224985.664</NorthIG>
+    </11>
+    <12>
+        <X></X>
+    </12>
+</root>
